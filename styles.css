@@ -1,0 +1,86 @@
+/* Set the general font and background color */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  
+  /* Title style */
+  h1 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #4CAF50;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  /* Subtitle (for ingredients and steps) style */
+  h2 {
+    font-family: 'Georgia', serif;
+    font-size: 24px;
+    color: #007BFF;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  /* Styles for ingredient and step lists */
+  ul {
+    font-family: 'Verdana', sans-serif;
+    font-size: 20px;
+    padding-left: 20px;
+    margin: 10px 0;
+  }
+  ol {
+    font-family: 'Optima', sans-serif;
+    font-size: 22px;
+    padding-left: 20px;
+    margin: 10px 0;    
+  }
+  
+  /* Paragraph style */
+  p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  /* Link style */
+  a {
+    color: #E91E63;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: #FF9800;
+  }
+  div#title ul.recipe {
+    font-family: 'Futura', sans-serif;
+    font-size: 22px;
+    border: 2px solid #000;
+    padding: 40px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+  
+  /* Header and footer background color */
+  header {
+    background-color: #555555;
+    color: #fff;
+    padding: 10px;
+    margin: 10px 0;
+
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 36px;
+
+  }
+  
+  footer {
+    background-color: #555555;
+    color: #ffffffff;
+    padding: 10px;
+    margin: 10px 0;
+  }
